@@ -1,1 +1,3 @@
 this is an file 3
+There was a change in the file and  the futher commits wil be updated
+i changed it now
